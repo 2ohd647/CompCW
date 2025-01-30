@@ -1,5 +1,11 @@
 # Neural Network Approach: Self-Organizing Maps (SOM)
 
+## Dataset:
+Credit card clustering dataset: https://www.kaggle.com/datasets/arjunbhasin2013/ccdata/data
+The dataset has been downloaded and added to the main branch of github.
+
+## Explanation 
+
 For the neural network approach, Self-Organizing Maps (SOM) can be employed. SOMs are unsupervised learning algorithms designed for clustering and visualization tasks. Unlike K-Means, which assumes spherical clusters, SOMs can detect non-linear relationships between data points, making them more suitable for complex customer behaviour patterns.
 
 SOMs work by projecting high-dimensional data onto a lower-dimensional 2D map, where similar customers are placed close together. This visualization of customer segments allows for an intuitive understanding of customer relationships, which is not possible with traditional clustering algorithms like K-Means. For this dataset, preprocessing steps 
