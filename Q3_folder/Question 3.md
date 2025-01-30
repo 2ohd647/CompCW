@@ -1,5 +1,17 @@
 # How Pre-Training, Epochs, and Batches Affect Neural Network Performance
 
+## Research Question
+For question 3 I have chosen to persue the 4th reseach question.
+
+1. How does data augmentation affect the performance of a neural network?
+2. How do parameters of a convolutional (or autoencoder) neural network affect
+performance of a network?
+3. How does choice of activation function affect the performance of a neural network?
+4. How does pre-training (and epochs and batches) affect the performance of a neural
+network? <---
+5. How do choices about data such as i) amount of training data and ii) balance of
+classes in a classification problem affect the performance of a neural network?
+
 The question of how pre-training, epochs, and batch sizes affect the performance of a neural network is particularly relevant for this dataset, as it deals with unsupervised learning tasks such as clustering. Since the dataset does not have explicit class labels, using techniques like autoencoders or SOMs can help uncover meaningful patterns and clusters. 
 Pre-training, along with tuning the number of epochs and batch sizes, plays a critical role in the performance of neural networks, especially for larger datasets.
 
