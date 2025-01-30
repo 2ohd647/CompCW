@@ -1,4 +1,4 @@
-#Project Importance 
+# Project Importance 
 
 The primary objective of this project is to utilize customer segmentation to derive actionable insights that can help businesses optimize their marketing strategies and improve customer engagement. By identifying different customer segments based on their behaviour, businesses can enhance their targeting, resulting in more efficient resource allocation and increased customer satisfaction.
 One of the key benefits of customer segmentation is enhanced customer understanding. By grouping customers based on behaviour, preferences, and spending patterns, businesses can better understand the differences between various customer groups. For example, identifying high-spending customers versus low-spending ones allows for more targeted promotions, such as offering discounts to frequent buyers or special offers for high-spending customers.
