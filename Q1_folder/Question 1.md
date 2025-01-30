@@ -1,5 +1,11 @@
 # K-Means Clustering for Customer Segmentation
 
+## Dataset:
+Credit card clustering dataset: https://www.kaggle.com/datasets/arjunbhasin2013/ccdata/data
+The dataset has been downloaded and added to the main branch of github.
+
+## Explanation 
+
 To address the customer segmentation problem, K-Means Clustering is chosen as the traditional, non-neural network approach. This method is widely used for customer segmentation tasks because it groups customers with similar behaviour or characteristics. K-Means is particularly well-suited for numerical datasets like the one provided, 
 where continuous variables such as balances, purchases, and frequency of transactions are prevalent.
 
