@@ -1,5 +1,9 @@
 # How Pre-Training, Epochs, and Batches Affect Neural Network Performance
 
+## Dataset:
+Credit card clustering dataset: https://www.kaggle.com/datasets/arjunbhasin2013/ccdata/data
+The dataset has been downloaded and added to the main branch of github.
+
 ## Research Question
 For question 3 I have chosen to persue the 4th reseach question.
 
@@ -11,6 +15,8 @@ performance of a network?
 network? <---
 5. How do choices about data such as i) amount of training data and ii) balance of
 classes in a classification problem affect the performance of a neural network?
+
+## Explanation
 
 The question of how pre-training, epochs, and batch sizes affect the performance of a neural network is particularly relevant for this dataset, as it deals with unsupervised learning tasks such as clustering. Since the dataset does not have explicit class labels, using techniques like autoencoders or SOMs can help uncover meaningful patterns and clusters. 
 Pre-training, along with tuning the number of epochs and batch sizes, plays a critical role in the performance of neural networks, especially for larger datasets.
