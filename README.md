@@ -11,3 +11,16 @@ By focusing on the most profitable customer segments, businesses can achieve ope
 The usefulness of this project extends across various real-world industries. For example, banking and financial institutions can design tailored credit card reward programs based on spending behaviour and prevent churn by understanding customer engagement levels. Similarly, e-commerce platforms can offer personalized product recommendations to boost sales and focus on high-value customers for premium services. In the retail sector, businesses can create specific promotions for high spenders or seasonal shoppers. Insurance companies can benefit from segmentation by offering personalized premium structures or coverage plans for different customer segments.
 
 The success of this project can be measured through several metrics, including increased customer engagement, reduced churn, and measurable revenue growth. Long-term impacts of segmentation include predictive modelling for customer behaviour, cross-selling and upselling strategies, and lifetime value estimation for different customer segments, all of which contribute to enhancing the business’s overall profitability.
+
+# Python Dependencies
+
+## Required Libraries:
+1.	pandas – For data manipulation and handling.
+2.	numpy – For numerical computations.
+3.	scikit-learn (sklearn) – For data preprocessing (MinMaxScaler) and clustering (K-Means).
+4.	tensorflow (tensorflow.keras) – For building and training the autoencoder.
+
+## Install Required Dependencies:
+
+Can install them using pip: [ pip install pandas numpy scikit-learn tensorflow ]
+
