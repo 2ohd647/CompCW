@@ -1,0 +1,4 @@
+1.	than (2022). What other Machine Learning techniques other than Neural Networks are there? [online] Artificial Intelligence Stack Exchange. Available at: https://ai.stackexchange.com/questions/36182/what-other-machine-learning-techniques-other-than-neural-networks-are-there [Accessed 30 Jan. 2025]. 
+2.	Kavlakoglu, E. and Winland, V. (2024). K-Means Clustering. [online] Ibm.com. Available at: https://www.ibm.com/think/topics/k-means-clustering. 
+3.	halflingwizard (2024). Interpret K-means Clusters on Credit Card Dataset. [online] Kaggle.com. Available at: https://www.kaggle.com/code/halflingwizard/interpret-k-means-clusters-on-credit-card-dataset [Accessed 30 Jan. 2025].
+4.	Gajanan, G. and Graduate, D. (n.d.). CREDIT CARD USAGE ANALYSIS USING K-MEANS CLUSTERING. [online] Available at: https://bpb-us-w2.wpmucdn.com/sites.umassd.edu/dist/c/1286/files/2022/12/Credit_Card_Usage_Analysis_using_KMeans_Clustering_report.pdf [Accessed 30 Jan. 2025].
